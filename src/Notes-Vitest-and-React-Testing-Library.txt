@@ -1,6 +1,16 @@
 
 1. Tutorial: https://www.robinwieruch.de/vitest-react-testing-library/
+             Scroll down to "Vitest vs React Testing Library" then click
+               "Vitest With Reac Testing Library" link
+                https://www.robinwieruch.de/vitest-react-testing-library/
+                for brief walkthrough on how to setup React Testing Library
 
+             After you are done with the walkthrough to setup React Testing Library
+             go back to https://www.robinwieruch.de/react-testing-library/
+             
+             Scroll down to: "React Testing Library: Rendering a Component"
+
+   Walkthrough to setup React Testing Library (https://www.robinwieruch.de/vitest-react-testing-library/ )
 2. Install Vitest: 
       npm install vitest --save-dev
 
@@ -26,7 +36,9 @@
     npm run dev 
     npm run test 
 
-6. Vitest with React Testing Library
+6. Still in Walkthrough to setup React Testing Library scroll down to 
+   "Vitest with React Testing Library"
+
     - first since React Testing Library tests React components, we need to enable 
       HTML in Vitest with a library like jsdom. First, install the library on 
       the command line:
@@ -68,4 +80,19 @@
             });
    
           npm run dev 
-    npm run test 
+          npm run test 
+
+  7. After testing above scroll down a little bit more and click 
+     "Continue Reading: Testing React Components with React Testing Library"
+     This will take you back to "https://www.robinwieruch.de/react-testing-library/"
+
+  8. Read this link again and go to "Custom React Setup" to setup JEST 
+     and React Testing Library" yourself.  
+        - you can download a React Boilerplate project from 
+          github https://github.com/rwieruch/minimal-react-webpack-babel-setup.
+          This boiler project has already webpack and babel setup. But dont use it.
+          Create your own React project using create-react-app and set it up yourself.
+
+          
+
+       
